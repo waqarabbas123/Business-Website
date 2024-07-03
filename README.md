@@ -1,2 +1,1 @@
-this is just a repository 
-code was not push in this repository .
+This is just a repository in this repository i cannot push the code of website .
